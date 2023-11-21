@@ -1,0 +1,137 @@
+2023-11-19 14:05:23 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:05:34 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:05:44 : INFO : root : *** Logo verification got completed
+2023-11-19 14:05:44 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 14:05:47 : INFO : root : *** TC_001 login testcase execution is started
+2023-11-19 14:05:56 : INFO : root : *** Orangehrm application got opened ***
+2023-11-19 14:05:59 : INFO : root : *** TC_001 dashboard text is verified
+2023-11-19 14:05:59 : INFO : root : *** TC_001 login testcase execution is completed
+2023-11-19 14:09:45 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:09:49 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:09:59 : INFO : root : *** Logo verification got completed
+2023-11-19 14:09:59 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 14:10:30 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:10:34 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:10:44 : INFO : root : *** Logo verification got completed
+2023-11-19 14:10:45 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 14:10:49 : INFO : root : *** TC_001 login testcase execution is started
+2023-11-19 14:10:52 : INFO : root : *** Orangehrm application got opened ***
+2023-11-19 14:10:55 : INFO : root : *** TC_001 dashboard text is verified
+2023-11-19 14:10:55 : INFO : root : *** TC_001 login testcase execution is completed
+2023-11-19 14:16:22 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:16:32 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:16:42 : INFO : root : *** Logo verification got completed
+2023-11-19 14:16:42 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 14:16:45 : INFO : root : *** TC_001 login testcase execution is started
+2023-11-19 14:16:54 : INFO : root : *** Orangehrm application got opened ***
+2023-11-19 14:16:56 : INFO : root : *** TC_001 dashboard text is verified
+2023-11-19 14:16:56 : INFO : root : *** TC_001 login testcase execution is completed
+2023-11-19 14:27:24 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:27:34 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:27:44 : INFO : root : *** Logo verification got completed
+2023-11-19 14:27:44 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 14:27:47 : INFO : root : *** TC_001 login testcase execution is started
+2023-11-19 14:27:59 : INFO : root : *** Orangehrm application got opened ***
+2023-11-19 14:28:02 : INFO : root : *** TC_001 dashboard text is verified
+2023-11-19 14:28:02 : INFO : root : *** TC_001 login testcase execution is completed
+2023-11-19 14:29:57 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:30:05 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:30:15 : INFO : root : *** Logo verification got completed
+2023-11-19 14:30:16 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 14:30:18 : INFO : root : *** TC_001 login testcase execution is started
+2023-11-19 14:30:26 : INFO : root : *** Orangehrm application got opened ***
+2023-11-19 14:30:28 : INFO : root : *** TC_001 dashboard text is verified
+2023-11-19 14:30:28 : INFO : root : *** TC_001 login testcase execution is completed
+2023-11-19 14:31:34 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:31:45 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:31:55 : INFO : root : *** Logo verification got completed
+2023-11-19 14:31:55 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 14:31:57 : INFO : root : *** TC_001 login testcase execution is started
+2023-11-19 14:32:09 : INFO : root : *** Orangehrm application got opened ***
+2023-11-19 14:32:12 : INFO : root : *** TC_001 dashboard text is verified
+2023-11-19 14:32:12 : INFO : root : *** TC_001 login testcase execution is completed
+2023-11-19 14:33:32 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:33:42 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:33:52 : INFO : root : *** Logo verification got completed
+2023-11-19 14:33:52 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 14:36:06 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:36:15 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:36:25 : INFO : root : *** Logo verification got completed
+2023-11-19 14:36:26 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 14:39:40 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 14:39:54 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 14:40:04 : INFO : root : *** Logo verification got completed
+2023-11-19 14:40:04 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
+2023-11-19 16:03:56 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 16:04:05 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 16:04:36 : INFO : root : TC_002 execution got started
+2023-11-19 16:04:47 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 16:04:49 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 16:05:50 : INFO : root : TC_002 execution got started
+2023-11-19 16:06:01 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 16:06:03 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 16:06:06 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 16:09:01 : INFO : root : TC_002 execution got started
+2023-11-19 16:09:17 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 16:09:19 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 16:09:21 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 16:09:28 : INFO : root : *** TC_002 login testcase got failed
+2023-11-19 16:10:09 : INFO : root : TC_002 execution got started
+2023-11-19 16:10:20 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 16:10:27 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 16:10:30 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 16:10:41 : INFO : root : *** TC_002 login testcase got failed
+2023-11-19 16:12:41 : INFO : root : TC_002 execution got started
+2023-11-19 16:12:51 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 16:13:00 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 16:13:02 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 16:13:15 : INFO : root : *** TC_002 login testcase got failed
+2023-11-19 16:17:51 : INFO : root : TC_002 execution got started
+2023-11-19 16:18:30 : INFO : root : TC_002 execution got started
+2023-11-19 16:19:46 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 16:19:54 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 16:20:07 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 16:20:15 : INFO : root : *** TC_002 login testcase got failed
+2023-11-19 16:20:18 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 16:20:22 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 16:22:09 : INFO : root : TC_002 execution got started
+2023-11-19 16:23:30 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 19:23:55 : INFO : root : TC_002 execution got started
+2023-11-19 19:23:59 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 19:24:02 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:24:03 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:24:06 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:24:07 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:24:09 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:24:11 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:24:29 : INFO : root : TC_002 execution got started
+2023-11-19 19:24:32 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 19:24:34 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:24:36 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:24:38 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:24:39 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:24:41 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:24:43 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:25:25 : INFO : root : TC_002 execution got started
+2023-11-19 19:25:29 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 19:25:31 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:25:33 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:25:35 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:25:37 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:25:39 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:25:41 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:29:41 : INFO : root : TC_002 execution got started
+2023-11-19 19:29:45 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 19:29:47 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:29:48 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:29:50 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:29:52 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:29:52 : INFO : root : *** TC_002 login testcase got failed
+2023-11-19 19:30:05 : INFO : root : TC_002 execution got started
+2023-11-19 19:30:09 : INFO : root : TC_002 orangehrm application is opened
+2023-11-19 19:30:12 : INFO : root : *** TC_002 dashboard text is verified
+2023-11-19 19:30:17 : INFO : root : *** TC_002 login testcase execution is completed
+2023-11-19 19:32:18 : INFO : root : *** tc_001_test_check_logo_presented execution is started ****
+2023-11-19 19:32:22 : INFO : root :  *** Orangehrm application got opened ***
+2023-11-19 19:32:32 : INFO : root : *** Logo verification got completed
+2023-11-19 19:32:32 : INFO : root : *** tc_001_test_check_logo_presented execution is completed ***
